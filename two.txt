@@ -1,4 +1,8 @@
 hi there line 1
 line 3
 line 2
+<<<<<<< HEAD
 line 4
+=======
+
+>>>>>>> a3ec490f2a2258f7f79011e246022b6620918db9
