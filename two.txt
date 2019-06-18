@@ -1,6 +1,4 @@
 hi there line 1
-<<<<<<< HEAD
 line 3
-=======
 line 2
->>>>>>> 5f455695b576775a2ca180d522d1d7282beb7c99
+
